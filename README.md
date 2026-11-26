@@ -2,7 +2,9 @@
 
 An exploratory data analysis (EDA) project examining trends, language distribution, genre performance, and audience reception across a dataset of Netflix movies.
 
-netflix_analysis.ipynb
+[![Open In Colab](https://google.com)](https://google.com)
+
+📓 **View the full notebook on GitHub:** [netflix_analysis.ipynb](https://github.com)
 
 ---
 
@@ -58,17 +60,17 @@ This project analyzes a movie metadata dataset (`mymoviedb`) to uncover patterns
 2. **Locally:**
    ```bash
    git clone https://github.com
-   cd NetflixMoviesDataset
+   cd netflix-movies-analysis
    pip install pandas matplotlib
    ```
-   Open the `.ipynb` notebook in Jupyter or VS Code and run all cells.
+   Open `netflix_analysis.ipynb` in Jupyter or VS Code and run all cells.
 
 ---
 
 ## Project Structure
 
 ```text
-├── netflix-movies-analysis.ipynb        # Main Google Colab / Jupyter notebook with code and plots
-├── dashboard.png                        # Exported 3x2 visualization summary
-├── netflix_titles.csv                   # Dataset file
-└── README.md                            # Project documentation
+├── netflix_analysis.ipynb   # Main Google Colab / Jupyter notebook with code and plots
+├── dashboard.png            # Exported 3x2 visualization summary
+└── README.md                # Project documentation
+```
