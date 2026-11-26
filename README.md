@@ -2,7 +2,6 @@
 
 An exploratory data analysis (EDA) project examining trends, language distribution, genre performance, and audience reception across a dataset of Netflix movies.
 
-[![Open In Colab](https://google.com)](https://google.com)
 
 📓 **View the full notebook on GitHub:** [netflix_analysis.ipynb](https://github.com)
 
